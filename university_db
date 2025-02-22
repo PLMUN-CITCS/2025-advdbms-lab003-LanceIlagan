@@ -1,3 +1,2 @@
-university_db/
-├── create_and_use_db.sql
-└── drop_db.sql
+create_and_use_db.sql
+drop_db.sql
